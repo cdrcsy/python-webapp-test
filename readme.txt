@@ -1,3 +1,3 @@
-Git is a 
+Git is a better
 Git is free software
-
+s
